@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yui:home|Door43 (yui)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yui|d43-yui repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yui/archive/master.zip|d43-yui.zip]]
+
+**Recent Changes**
+{{changes>ns = yui}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yui|Ethnologue data]]
+
